@@ -1,6 +1,6 @@
 # Prácticas ED - 2º - UGR - ETSIIT - GII - PDF
 
-Prácticas realizadas en la asignatura ED (Estructuras de datos) del grado en Ingeniería Informática en el curso 2014/2015, UGR.
+Prácticas realizadas en la asignatura ED (Estructuras de datos) del grado en Ingeniería Informática en el curso 2015/2016, UGR.
 
 ## Autor
 
